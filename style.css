@@ -14,15 +14,20 @@
 }
 
 .top_content {
-    margin-top: 160px;
-    margin-bottom: 190px;
+    margin-top: 162.71px;
+    margin-bottom: 162.45px;
 }
 
 .title {
-    margin-bottom: 40px;
+    margin-bottom: 245px;
 
 }
 
 .top_button {
     margin-top: 50px;
+}
+
+.top_logos {
+    padding-top: 97px;
+    margin-bottom: 96px;
 }
