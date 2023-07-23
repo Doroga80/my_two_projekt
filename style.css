@@ -3,28 +3,32 @@
     padding: 0;
 }
 
-.top {
-    padding-bottom: 99px;
+.header {
+    padding-top: 52px;
+    padding-bottom: 95.71px;
 }
 
-.header {
-    padding-top: 40px;
-    padding-bottom: 40px;
-
+.header_link_red {
+    color: #F25822;
 }
 
 .top_content {
-    margin-top: 162.71px;
+    padding-top: 93.71px;
     margin-bottom: 162.45px;
 }
 
 .title {
-    margin-bottom: 245px;
+    margin-bottom: 17px;
+}
+
+
+.text {
+    margin-top: 17px;
 
 }
 
 .top_button {
-    margin-top: 50px;
+    margin-top: 51px;
 }
 
 .start_button {
@@ -33,7 +37,7 @@
     box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
 }
 
-.top_logos {
-    padding-top: 97px;
-    margin-bottom: 96px;
+.top_logo {
+    padding-top: 96px;
+    padding-bottom: 97px;
 }
