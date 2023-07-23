@@ -2,6 +2,10 @@ body {
     font-family: sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -33,6 +37,10 @@ body {
 
 .top_button {
     margin-top: 51px;
+}
+
+.button {
+    color: #AAA;
 }
 
 .start_button {
